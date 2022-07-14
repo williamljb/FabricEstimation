@@ -1,0 +1,8 @@
+logs_combined/std2/checkpoints/2020_05_10-14_59_14.pt
+logs_atlas/0425_2103/checkpoints/2020_04_28-12_26_09.pt
+logs_combined/0430_2051/checkpoints/2020_05_02-01_00_45.pt
+logs_mat/std_h01_test_0fc/checkpoints/2020_05_18-17_18_43.pt
+data/dataset_extras/synthetic_M_H01_train.npz
+data/dataset_extras/synthetic_M_H01_1_test.npz
+data/dataset_extras/synthetic_CH_test.npz
+data/dataset_extras/synthetic_CH_train.npz
