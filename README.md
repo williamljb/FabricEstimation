@@ -28,7 +28,7 @@ python train.py --train_module material
 ```
 
 ### Data
-Training/test dataset, as well as pretrained model, can be found at [here](). Please unzip them and place them under the folder of this repo (same parent folder as this file).
+Training/test dataset, as well as pretrained model, can be found at [here](). Please unzip them and place the four folders under the folder of this repo.
 
 ### Demo
 - If you wish to test the single-frame reconstruction only:
