@@ -229,5 +229,3 @@ class MaxMixturePrior(nn.Module):
             return self.merged_log_likelihood(pose, betas)
         else:
             return self.log_likelihood(pose, betas)
-
-
